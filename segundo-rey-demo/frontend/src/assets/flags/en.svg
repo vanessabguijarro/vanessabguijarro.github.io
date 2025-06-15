@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="640" height="480">
-  <rect width="640" height="480" fill="#012169"/>
-  <path d="M0,0L640,480M640,0L0,480" stroke="#fff" stroke-width="120"/>
-  <path d="M0,0L640,480M640,0L0,480" stroke="#c8102e" stroke-width="60"/>
-  <rect x="270" width="100" height="480" fill="#fff"/>
-  <rect y="190" width="640" height="100" fill="#fff"/>
-  <rect x="295" width="50" height="480" fill="#c8102e"/>
-  <rect y="215" width="640" height="50" fill="#c8102e"/>
-</svg>
