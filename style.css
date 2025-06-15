@@ -4,7 +4,7 @@
         box-sizing: border-box;
       }
 
-      body {
+      body, div {
         font-family: 'Quicksand', sans-serif;
         background: #fdf6f0;
         color: #333;
